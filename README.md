@@ -1,7 +1,7 @@
 # StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator (CVPR 2023)
 ### [Project](https://hangz-nju-cuhk.github.io/projects/StyleSync) | [Paper](https://arxiv.org/abs/2104.11116) | [Demo](https://www.youtube.com/watch?v=yAPDl2dVonY)
 
-<img src='./misc/method.png' width=800>
+<img src='./misc/StyleSync0.png' width=800>
 
 We propose **StyleSync**, an effective framework that enables high-fidelity lip synchronization. We identify that a style-based generator would sufficiently enable such a charming property on both one-shot and few-shot scenarios.
 
