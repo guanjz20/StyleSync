@@ -1,0 +1,7 @@
+__pycache__/
+projects/
+ckpts/*
+results/*
+_README.md
+demo/
+mask*.jpg
