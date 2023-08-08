@@ -15,7 +15,7 @@ We propose **StyleSync**, an effective framework that enables high-fidelity lip 
 Inference script and model code have been released. 
 
 ## Run Generation
-The decision to suspend the release of the model weights has been made by our team based on various considerations. At present, I also do not have a specific expected date for its release. However, if you are interested in utilizing our demo for academic purposes, such as conducting a comparison in your paper, please don't hesitate to contact me by [guanjz20 at mails dot tsinghua dot edu dot cn]. For commercial usage, please contact [Hang Zhou](https://hangz-nju-cuhk.github.io/) by [zhouhang09 at baidu dot com].
+The decision to suspend the release of the model weights has been made by our team based on various considerations. At present, I also do not have a specific expected date for its release. However, if you are interested in utilizing our demo for academic purposes, such as conducting a comparison in your paper, please don't hesitate to contact me by [guanjz20 at mails dot tsinghua dot edu dot cn]. 
 
 
 ## Citation
